@@ -21,3 +21,18 @@ Students above average
 Grade assignment using function
 ▶️ Run
 python Day2.py
+#DAY3
+📌Description
+Simple phonebook app using Python dictionary with basic CRUD operations.
+🚀 Features
+Add contact
+Search contact (partial search)
+Delete contact
+Show all contacts
+💡 Concepts
+CRUD operations
+Dictionary
+User input handling
+▶️ Run
+python Day3.py
+
