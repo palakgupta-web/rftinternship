@@ -37,7 +37,6 @@ User input handling
 python Day3.py
 DAY4
 📌Description
-Description
 This project analyzes system logs and counts different log types such as ERROR, INFO, and WARNING. It also finds the most frequent log type while ignoring case sensitivity.
 🚀Features
 Count ERROR logs
@@ -47,3 +46,13 @@ Detect most frequent log type
 Ignore uppercase/lowercase differences
 ▶️ Run
 python Day4.py
+DAY5
+📌Description
+A simple Python program to read and process CSV files without using the Pandas library.
+🚀Features
+Reads CSV file data
+Stores data in list of dictionaries
+Uses file handling and string splitting
+Beginner-friendly Python project
+▶️ Run
+python Day5.py
