@@ -56,3 +56,15 @@ Uses file handling and string splitting
 Beginner-friendly Python project
 ▶️ Run
 python Day5.py
+DAY 6
+📌Description
+A simple Python project that analyzes sales data using the Pandas library. This project demonstrates CSV handling, column operations, aggregation, and sorting.
+🚀Features
+Read sales data from CSV file
+Add new column: TOTAL = QUANTITY * PRICE
+Calculate total sales per product
+Find total revenue
+Identify top-selling product
+Sort products by revenue
+▶️ Run
+python Day6.py
