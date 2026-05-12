@@ -68,3 +68,20 @@ Identify top-selling product
 Sort products by revenue
 ▶️ Run
 python Day6.py
+DAY7
+📌Description
+A simple Python project to analyze student performance using Pandas and generate useful insights from marks data.
+🚀Features
+Calculate average marks
+Find topper
+Add grades
+Subject-wise average
+Count students above average
+💡 Concepts
+Pandas DataFrame
+Filtering
+Aggregation
+Functions
+Conditional Statements
+▶️ Run
+python Day7.py
