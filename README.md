@@ -100,3 +100,14 @@ Aggregation
 Sorting
 ▶️ Run
 python Day8.py
+DAY9
+📌Description
+A simple Python project using pandas to filter employee data based on salary and age conditions.
+🚀Features
+Create DataFrame using pandas
+Apply Boolean Filtering
+Use Multiple Conditions
+Display Filtered Results
+Save Filtered Data into CSV file
+▶️ Run
+python Day9.py
