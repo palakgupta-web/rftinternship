@@ -152,3 +152,19 @@ Grouped Bar Charts
 Data Comparison
 ▶️ Run 
 python Day12.py
+DAY13
+📌Description
+This project demonstrates Distribution Analysis using Python libraries like Seaborn, Matplotlib, and Pandas.
+The program visualizes the distribution of student marks using a Histogram along with a KDE (Kernel Density Estimation) Curve.
+🚀 Features
+Histogram Visualization
+KDE Curve for distribution understanding
+Skewness Detection
+Simple and beginner-friendly code
+🛠️ Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
+▶️ Run 
+python Day13.py
