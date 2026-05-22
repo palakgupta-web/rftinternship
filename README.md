@@ -182,3 +182,18 @@ Python
 Matplotlib
 ▶️ Run 
 python Day14.py
+DAY15
+📌Description
+A simple Mini Exploratory Data Analysis (EDA) Dashboard built using Python, Pandas, and Matplotlib to visualize student marks using different charts.
+🚀 Features
+Pie Chart for Marks Percentage
+Bar Chart for Student Marks Comparison
+Line Chart for Marks Trend
+Boxplot for Outlier Detection
+Basic Insights Generation
+🛠️ Technologies Used
+Python
+Pandas
+Matplotlib
+▶️ Run 
+python Day15.py
