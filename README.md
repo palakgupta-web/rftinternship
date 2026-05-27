@@ -230,3 +230,19 @@ Pandas
 Matplotlib
 ▶️ Run 
 python Day17.py
+DAY18
+📌Description
+This project performs Exploratory Data Analysis (EDA) on a movie dataset using Python, Pandas, and Matplotlib.
+🚀 Features
+Analyze highest rated movies
+Find most profitable genres
+Visualize genre-wise revenue
+Study rating distribution
+Calculate correlation between rating and revenue
+Identify top 5 highest revenue movies
+🛠️ Technologies Used
+Python
+Pandas
+Matplotlib
+▶️ Run 
+python Day18.py
