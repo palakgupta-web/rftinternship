@@ -246,3 +246,18 @@ Pandas
 Matplotlib
 ▶️ Run 
 python Day18.py
+DAY19
+📌Description
+This project performs time-series analysis on stock price data using Python. It focuses on identifying trends, calculating moving averages, detecting peaks and drops, and analyzing volatility. The project also includes visualization for better understanding of stock behavior over time.
+🚀 Features
+Analyze stock price trends over time 
+Compute moving averages for trend smoothing 
+Detect peaks (local highs) and drops (local lows) 
+Measure stock volatility (risk) 
+Compare multiple stocks visually
+🛠️ Technologies Used
+Python
+Pandas
+Matplotlib
+▶️ Run 
+python Day19.py
