@@ -292,3 +292,22 @@ A Python project covering intermediate concepts of functions.
 Python
 ▶️ Run
 Day21.py
+DAY 22 
+📌 Description
+A Python project focused on analyzing sales data and generating useful business insights from a CSV dataset.
+🚀 Features
+✔ Clean missing and duplicate data
+✔ Calculate total sales and average revenue
+✔ Identify top-performing products
+✔ Analyze sales trends over time
+✔ Analyze product category distribution
+✔ Create Line Chart for Sales Trend
+✔ Create Bar Chart for Top Products
+✔ Create Pie Chart for Category Distribution
+✔ Generate 5 business insights
+🛠️ Technologies Used
+Python
+Pandas
+Matplotlib
+▶️ Run
+Day22.py
