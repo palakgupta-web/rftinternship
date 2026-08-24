@@ -346,3 +346,18 @@ A Python project for analyzing weather data using CSV data.
 Python | Pandas | Matplotlib | Streamlit
 ▶️ Run
 day24.py
+DAY 25
+📌Description
+This Python project analyzes transaction data to detect potentially fraudulent activities. It identifies duplicate transactions, high-value transactions, suspicious accounts, and assigns a risk score to each transaction.
+🚀Features
+Duplicate transaction detection
+High-value transaction identification
+Suspicious account detection
+Risk score calculation
+Transaction category analysis
+Daily transaction trend
+Top 10 highest transactions
+Suspicious transaction CSV export
+Streamlit dashboard with search and filters
+▶️ Run
+day25.py
