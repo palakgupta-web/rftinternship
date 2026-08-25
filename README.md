@@ -1,4 +1,4 @@
-#DAY1
+ii#DAY1
 📌Description
 This Python program removes duplicate values and invalid entries like None and empty strings from a list and returns a clean list.
 🚀Features
@@ -361,3 +361,21 @@ Suspicious transaction CSV export
 Streamlit dashboard with search and filters
 ▶️ Run
 day25.py
+Day 26 
+📌Description
+A simple Python-based AI Resume Screening Tool that reads resumes, checks required skills, calculates a match score, ranks candidates, and shortlists suitable candidates.
+🚀Features
+Read multiple TXT resumes
+Match resume skills with job requirements
+Calculate Resume Match Score
+Identify missing skills
+Rank candidates
+Export shortlisted candidates to CSV
+Simple Streamlit interface for resume upload
+🛠️ Technologies
+Python
+Pandas
+Streamlit
+OS module
+▶️ Run
+day26.py
