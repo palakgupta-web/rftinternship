@@ -416,6 +416,20 @@ A Python project that analyzes stock portfolio data and calculates investment pe
 * Python
 * ## Run
 day28.py
+Day 29
+Python & Streamlit project for tracking, categorizing, and analyzing monthly expenses.
+Features
+- 📊 Expense Analysis
+- 🏷️ Auto Categorization
+- 💰 Savings Calculation
+- 📈 Spending Trends
+- 🔮 Expense Prediction
+- 📥 Report Export
+- 🌐 Streamlit Dashboard
+Tech Stack
+Python | Pandas | Matplotlib | Streamlit
+* ## Run
+day29.py
 Day 30
 A Python project that processes invoice data, calculates total invoice amounts, identifies overdue invoices, generates a consolidated report, and provides an interactive Streamlit dashboard.
 Features
