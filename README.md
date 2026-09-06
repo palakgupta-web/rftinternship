@@ -416,3 +416,22 @@ A Python project that analyzes stock portfolio data and calculates investment pe
 * Python
 * ## Run
 day28.py
+Day 30
+A Python project that processes invoice data, calculates total invoice amounts, identifies overdue invoices, generates a consolidated report, and provides an interactive Streamlit dashboard.
+Features
+* Read and process invoice data from CSV
+* Extract invoice and customer details
+* Calculate total invoice amount
+* Identify overdue and pending invoices
+* Generate consolidated invoice report
+* Generate invoice summary
+* Export processed report as CSV
+* Interactive Streamlit dashboard
+Technologies Used
+* Python
+* Pandas
+* Streamlit
+* CSV
+* Datetime
+* * ## Run
+day30.py
